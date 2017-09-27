@@ -68,5 +68,5 @@ We Chose a [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu
 
 In this analysis we have tried to derive a correlation between The Staff Count at plant and the Population served. Find below the correlation between them. It can be noted that Hunts Point WWTP has higher staff for the population it serves.
 
-![solarpalette](PUI2017_pak348/HW2_pak348/screebshots/WWTP_Staff_Pop.bmp)
+![solarpalette](screebshots/WWTP_Staff_Pop.bmp)
 
