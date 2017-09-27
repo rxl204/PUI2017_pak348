@@ -9,10 +9,14 @@ You have a test and a control sample.
 Modified Hypothesis:
 
 The Percentage of people who excercised alone for a year lost more weight on an average, compared to the people who were on a diet alone. The persons who dieted and excercised and people who did not do either were not considered for devising the model. 
+H0: Pt <= Pc
+
 
 Null Hypothesis: 
 
 The people who were only on a diet lost more or the were at the same weight on an average as compare to teh people only excercising.
+
+H1: Pt > Pc
 
 
 **Quantify the danger of smoking for pregnant women.** (Olds et al., 1994, p. 223)
