@@ -67,3 +67,6 @@ We Chose a [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu
 1. For the first part we have chosen the Waste Water Treatment Plant dataset from Department of Environmental Protection, NYC. This was made for State Pollutant Discharge Elimination System. A Detailed Report of the same is available in this link [here](http://www.nyc.gov/html/dep/pdf/harbor/spdes_bmp_report_2012.pdf)
 
 In this analysis we have tried to derive a correlation between The Staff Count at plant and the Population served. Find below the correlation between them. It can be noted that Hunts Point WWTP has higher staff for the population it serves.
+
+![solarpalette](PUI2017_pak348/HW2_pak348/screebshots/WWTP_Staff_Pop.bmp)
+
