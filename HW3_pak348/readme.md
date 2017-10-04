@@ -16,7 +16,28 @@ For each sample plot the sample mean (dependent var.) against the sample size N 
 
 A gaussian blanket was fit over the distribution of means.
 
-            
+*Distributions:*
+
+![solarpalette](screenshots/1.png)
+
+![solarpalette](screenshots/2.png)
+
+![solarpalette](screenshots/3.png)
+
+*Histograms*
+
+![solarpalette](screenshots/4.png)
+
+![solarpalette](screenshots/5.png)
+
+*All Distributions*
+
+![solarpalette](screenshots/6.png)
+
+
+
+
+
 Section-2:
 
 In this section we tried to work on the data-driven inference based on CitiBike data.
@@ -35,6 +56,11 @@ Alternate Hypothesis: Subscribers take more rides on Citibikes more than Custome
 
 Null Hypothesis: Customers take the same or more number of rides than Subscribers during Weekdays.
 
+![solarpalette](screenshots/7.png)
+
+![solarpalette](screenshots/8.png)
+
+![solarpalette](screenshots/9.png)
 
 
 Section-3:
