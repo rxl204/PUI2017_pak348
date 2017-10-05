@@ -29,6 +29,6 @@ print ("No. of Buses that are currently Active:%s"%(No_buses))
 
 #A for loop that prints the location of each bus and runs until the count of the buses
 for n in range(No_buses):
-    Bus_lat = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][n]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
-    Bus_lon = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][n]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
-    print ("The Bus %s is at Latitude  %s and Longitude %s" %(No_buses, Bus_lat, Bus_lon))
+     Bus_lat = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][n]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
+     Bus_lon = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][n]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
+     print ("The Bus %s is at Latitude  %s and Longitude %s" %(n+1, Bus_lat, Bus_lon))
