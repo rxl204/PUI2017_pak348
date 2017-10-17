@@ -35,4 +35,4 @@ Tested and showed that binomial and Poisson distribution look increasingly more 
 ## Assignment 3: investigate linear relationships between fire arm possession, homicides by fire arms, and mass shootings for different countries, considering also the country GDP
 
 
-Followed instructions in [this skeleton notebook] (https://github.com/fedhere/PUI2017_fb55/blob/master/HW5_fb55/Assignment3_instructionsUpdated.ipynb and derived Conclusions drawn from the analysis.
+Followed instructions in [this_skeleton_notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW5_fb55/Assignment3_instructionsUpdated.ipynb) and derived Conclusions drawn from the analysis.
