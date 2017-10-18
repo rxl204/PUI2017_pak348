@@ -22,13 +22,13 @@ plot the distribution of z statistics
 
 fit the z-statistics with a gaussian model and assess the goodness of fit with a simple test (AD or KS).
 
-![solarpalette](screenshots/9d.png)
+![solarpalette](screenshots/9d.PNG)
 
-![solarpalette](screenshots/9e.png)
+![solarpalette](screenshots/9e.PNG)
 
-![solarpalette](screenshots/9f.png)
+![solarpalette](screenshots/9f.PNG)
 
-![solarpalette](screenshots/9g.png)
+![solarpalette](screenshots/9g.PNG)
 
 ### Null Hypothesis: Laplace Distribution Follows Gaussian Distribution 
 ### Since the P Value is 0.19 and it is greater than the assumed p value of 0.05 for the hypothesis, the Null Hypothesis cannot be rejected.
