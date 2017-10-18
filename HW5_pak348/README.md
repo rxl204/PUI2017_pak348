@@ -2,12 +2,10 @@
 
 This Repository contains the work done for Homework Assignment - 5
 
-I worked on my own for most of the Assignement. 
-
 
 ## Assignment 1: Test the Z test: 
 
-(all simulated data)
+Worked on my own for this Assignment.
 
 
 Generated N samples from a Laplace distribution with a chosen mean μ = 100 and standard deviation σ: N(μ, σ) and calculated the mean of each sample (all samples having the same size n). 
@@ -24,10 +22,16 @@ plot the distribution of z statistics
 
 fit the z-statistics with a gaussian model and assess the goodness of fit with a simple test (AD or KS).
 
+### Null Hypothesis: Laplace Distribution Follows Gaussian Distribution 
+### Since the P Value is 0.19 and it is greater than the assumed p value of 0.05 for the hypothesis, the Null Hypothesis cannot be rejected.
+
+### Therefore, Laplace Distribution considering a 1000 Samples follows a Gaussian Distribution.
 
 
 ## Assignment 2: Compare Tests for Goodness of fit
 Followed the skeleton notebook [Assignment 2](https://github.com/fedhere/PUI2017_fb55/blob/master/HW5_fb55/Assignment2_instructions.ipynb)
+
+I was stuck on the section where we had to create an array. But with some help from Matt, I understood how to resolve the issue
 
 Tested and showed that binomial and Poisson distribution look increasingly more similar to Gaussians as the mean of the distribution increases.
 
