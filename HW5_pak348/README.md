@@ -33,6 +33,25 @@ Followed the skeleton notebook [Assignment 2](https://github.com/fedhere/PUI2017
 
 I was stuck on the section where we had to create an array. But with some help from Matt, I understood how to resolve the issue
 
+KS Test:
+Null Hypothesis: Binomial & Poisson Distribution can be Approximated for a Gaussian Distribution as the value of mean increases
+Binomial: The P Value = 0.0 is less than 0.05 hence the Null Hypothesis cannot be rejected.
+Poisson: The P Value = 0.3 is greater than 0.05 hence the Null Hypothesis can be rejected.
+AD Test:
+Null Hypothesis: Binomial & Poisson Distribution are drawn from a Gaussian Distribution.
+Binomial: The statistics AD=15.85 larger than threshold (for alpha=0.05) thresh_0.05 = 0.784 hence the Null Hypothesis cannot be rejected.
+Poisson: The statistics AD=0.92 larger than threshold (for alpha=0.05) thresh_0.05 = 0.784 hence the Null Hypothesis can be rejected.
+
+Binomial on a Normal
+KS Test: With the increase in the sample size the P-Value increases and KS Statistics reduces. So with Large number of samples Binomial Approximates to a Gaussian Distribution.
+AD Test: With the increase in sample size the AD Statistics value decreases and tends to go below the threshold. So with Large number of samples Binomial Approximates to a Gaussian Distribution.
+KL Test: With the increase in sample size the KL Statistics value decreases, So the entropy value decreases with increase in the sample size
+
+Poisson on a Normal
+KS Test: With the increase in the sample size the P-Value increases and KS Statistics reduces. So with Large number of samples Poisson Approximates to a Gaussian Distribution.
+AD Test: With the increase in sample size the AD Statistics value decreases and tends to go below the threshold. So with Large number of samples Poisson Approximates to a Gaussian Distribution.
+KL Test: With the increase in sample size the KL Statistics value decreases, So the entropy value decreases with increase in the sample size.
+
 Tested and showed that binomial and Poisson distribution look increasingly more similar to Gaussians as the mean of the distribution increases.
 
 
