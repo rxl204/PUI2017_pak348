@@ -22,6 +22,14 @@ plot the distribution of z statistics
 
 fit the z-statistics with a gaussian model and assess the goodness of fit with a simple test (AD or KS).
 
+![solarpalette](screenshots/9d.png)
+
+![solarpalette](screenshots/9e.png)
+
+![solarpalette](screenshots/9f.png)
+
+![solarpalette](screenshots/9g.png)
+
 ### Null Hypothesis: Laplace Distribution Follows Gaussian Distribution 
 ### Since the P Value is 0.19 and it is greater than the assumed p value of 0.05 for the hypothesis, the Null Hypothesis cannot be rejected.
 
@@ -52,6 +60,12 @@ KS Test: With the increase in the sample size the P-Value increases and KS Stati
 AD Test: With the increase in sample size the AD Statistics value decreases and tends to go below the threshold. So with Large number of samples Poisson Approximates to a Gaussian Distribution.
 KL Test: With the increase in sample size the KL Statistics value decreases, So the entropy value decreases with increase in the sample size.
 
+![solarpalette](screenshots/9b.png)
+
+![solarpalette](screenshots/9c.png)
+
+
+
 Tested and showed that binomial and Poisson distribution look increasingly more similar to Gaussians as the mean of the distribution increases.
 
 
@@ -59,3 +73,27 @@ Tested and showed that binomial and Poisson distribution look increasingly more 
 
 
 Followed instructions in [this_skeleton_notebook](https://github.com/fedhere/PUI2017_fb55/blob/master/HW5_fb55/Assignment3_instructionsUpdated.ipynb) and derived Conclusions drawn from the analysis.
+
+![solarpalette](screenshots/1.png)
+
+![solarpalette](screenshots/2.png)
+
+![solarpalette](screenshots/3.png)
+
+![solarpalette](screenshots/4.png)
+
+![solarpalette](screenshots/5.png)
+
+![solarpalette](screenshots/6.png)
+
+![solarpalette](screenshots/7.png)
+
+![solarpalette](screenshots/8.png)
+
+![solarpalette](screenshots/9.png)
+
+![solarpalette](screenshots/9a.png)
+
+
+
+
