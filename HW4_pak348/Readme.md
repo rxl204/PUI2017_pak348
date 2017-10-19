@@ -36,7 +36,7 @@ Correlation	| 1, electrophysiological Measurement| continuous | 1, behavioral Me
 Logistic Regression	| 1, Flow cytometry measurements| Continous | 1, Diagnosed Leukemia| categorical | - |- | Can Leukemia be predicted using Flow cytometry measurements | Test Scores ~= Mean Features| 0.05 | [Leukemia Prediction Using Sparse Logistic Regression]( http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932) |
   |||||||||
 
-
+** FBB: Good on the literature review but the H0 of the correlation is wrong! H0 is that there i NO CORRELATION (no dependency) so that when the p-value is low that indicates a high probability of correlation cause uder the null there is low probability of giving that measurement **
 
 Section-3: Analysis of the Hard to Employ program in NY
 
