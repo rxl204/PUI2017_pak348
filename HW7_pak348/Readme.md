@@ -41,7 +41,7 @@ Conclusions – From the above analysis it is clearly evident that Most of the w
 
 ![solarpalette](screenshots/3.PNG)
 
-Fig. 4
+Fig. 4.
 
 Fraction of Rides taken by Customers to Subscribers Segregated by day of the Week
 
