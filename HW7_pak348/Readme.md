@@ -1,3 +1,6 @@
+Authorea Link to Article (https://www.authorea.com/211543/DSxU_Pciv8nJB7VrVEHEAQ)
+
+
 New York City rides on Citi-Bikes : A Daily Commute or a Fancy Ride     
 Praveen (New York University Shanghai)
 Add CollaboratorManage
