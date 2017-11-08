@@ -6,6 +6,8 @@ The Null hypothesis was formulated correctly, though the **\alpha was not stated
 
 The Alternative hypothesis was formulated correctly, though the **\alpha was not stated**. Moreover, instead of writing "Subscribers take **_more_** rides on Citibikes than Customers during Weekdays" it would be better to write **"..._significally_ more..."**
 
+# FBB in fact if the alpha significance level is specified as it should "significantly" should not be iterated in the null and alternative formulation
+
 ### (b) Verify that the data supports the project
 
 * I am referreing for the UserType/Tripduration and not reviewing the efforts to analyze age of bikers. 

@@ -16,3 +16,5 @@ So the task is to compare the mean values of the daily counts of trips in 22 day
 In this case, I would suggest using the one-tailed t-test.
 
 Good luck!
+
+# FBB ok
