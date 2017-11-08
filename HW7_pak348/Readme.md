@@ -6,7 +6,7 @@ Abstract: Citi-Bike Subscribers are more likely to utilize the bikes on weekdays
 Introduction: Citi-Bike a Bike Sharing Platform that began its operations in NYC in 2013 has over 10,00 vehicles, 706 Stations and serviced over 22 Million rides until 2016 [1]. They operate on two methodologies i. Citi-bike Annual Subscription service for Subscribers and ii. A 24-hour pass or a 3-day pass for Customers [2]. In this Article, we try to derive a correlation between the No. of Rides taken by Subscribers to the No. of Rides taken by the Customers during Weekdays and Weekends. This will help us derive a conclusion on whether Citi-Bike is used more as a Daily Commute mode or by Tourists to explore the city.
 Data-Analysis: To perform this analysis, we utilize the publicly available dataset posted by the Citi-Bike for the month of January 2017 which is available at this link. We then clean the dataset to the required parameters of User Type, No. of Trips Taken, and the Day of the Trip.  To Simplify the analysis, and since the User Type data is dichotomous (Either Customer or Subscriber) we assign them a Binary Value of 0 & 1 respectively and filter out the individual trip counts on Weekdays and Weekends.
 
-![solarpalette](screenshots/1.PNG)
+![solarpalette](Screenshots/1.PNG)
 
 Fig. 1
 
@@ -15,7 +15,7 @@ Filtered Data from Citi-Bike for the Month of January 2017
 Methodology – To identify the relative usage of Citi bike Subscribers over the Customers, a ratio of the number of trips taken by the Customers to the Subscribers were utilized. This ratio was computed for both for Weekdays and Weekends. The same is depicted is the below figure.
 
 
-![solarpalette](screenshots/2.PNG)
+![solarpalette](Screenshots/2.PNG)
 
 Fig. 2
 
@@ -27,7 +27,7 @@ No. of Rides taken by Customers & Subscribers Segregated by day of the Week
 
  
 
-![solarpalette](screenshots/3.PNG)
+![solarpalette](Screenshots/3.PNG)
 
 
 Fig. 3
@@ -39,7 +39,7 @@ Conclusions – From the above analysis it is clearly evident that Most of the w
  
 
 
-![solarpalette](screenshots/3.PNG)
+![solarpalette](Screenshots/3.PNG)
 
 Fig. 4.
 
