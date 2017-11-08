@@ -39,7 +39,7 @@ Conclusions – From the above analysis it is clearly evident that Most of the w
  
 
 
-![solarpalette](Screenshots/4.png)
+![solarpalette](Screenshots/4.PNG)
 
 Fig. 4.
 
