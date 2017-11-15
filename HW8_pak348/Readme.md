@@ -15,5 +15,5 @@ For this assignment I have tried to Plot the Historical data of Per Capita Water
 
 It is a very basic plot that does not really contain too much of graphic:
 
-![solarpalette](screenshots/1.png)
+![solarpalette](screenshots/1.PNG)
 
