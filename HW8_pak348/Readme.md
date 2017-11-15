@@ -15,5 +15,6 @@ For this assignment I have tried to Plot the Historical data of Per Capita Water
 
 It is a very basic plot that does not really contain too much of graphic:
 
-![solarpalette](screenshots/1.PNG)
+[![solarpalette](screenshots/1.PNG)](https://github.com/praveenashokkumar/PUI2017_pak348/blob/master/HW8_pak348/NYC%20Water%20Consumption.ipynb)
+
 
